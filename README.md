@@ -3,7 +3,11 @@
 - 💻 Recém-chegado ao mundo da programação, estou explorando tecnologias como HTML, CSS e JavaScript.
 - 🚀 Apaixonado por aprender e criar projetos.
 - 🌱 Estudando JavaSript
-  
+
+<div style="text-align: center; display: block; height: 200; width: 200; margin: 0 auto;">
+    <img alt="Ratinho" src="https://media.tenor.com/Mfw-y4gYsIkAAAAM/hacker-hamster.gif">
+</div>
+
 
 
 <div align="center">
