@@ -4,14 +4,14 @@
 - 🚀 Apaixonado por aprender e criar projetos.
 - 🌱 Estudando JavaSript
 
-<div style="text-align: center; display: block; height: 200; width: 200; margin: 0 auto;">
-    <img alt="Ratinho" src="https://media.tenor.com/Mfw-y4gYsIkAAAAM/hacker-hamster.gif">
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=github.com%2FEdgss&s=40&c=ffffff&bg=00000000&no=4&ff=digi&tb=Views%3A+&ta=" />
+  </p>
 </div>
 
-
-
 <div align="center">
-<p align="center"><img aling="center" src="https://visit-counter.vercel.app/counter.png?page=github.com%2FEdgss&s=40&c=ffffff&bg=00000000&no=4&ff=digi&tb=Views%3A+&ta="/></p>
+    <img src="https://github.com/user-attachments/assets/2bc9c1e0-b2c8-4595-96c1-63ca13cdec6e" width="740" height="434">
 </div>
 
 <picture align="center">
@@ -19,4 +19,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edgss/Edgss/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Edgss/Edgss/output/github-contribution-grid-snake.svg">
 </picture>
-
