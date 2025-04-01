@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/2bc9c1e0-b2c8-4595-96c1-63ca13cdec6e" width="750" height="350">
+    <img src="https://github.com/user-attachments/assets/2bc9c1e0-b2c8-4595-96c1-63ca13cdec6e" width="550" height="250">
 </div>
 <div align="center">
   <picture style="width: 600px; height: 300px;">
