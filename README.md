@@ -14,6 +14,10 @@
   <a href="https://www.linkedin.com/in/eduardo-gomes-0857a7259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
+<div align="center">
+<p align="center"><img aling="center" src="https://visit-counter.vercel.app/counter.png?page=github.com%2FEdgss&s=40&c=ffffff&bg=00000000&no=4&ff=digi&tb=Views%3A+&ta="/></p>
+</div>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edgss/Edgss/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edgss/Edgss/output/github-contribution-grid-snake-dark.svg">
