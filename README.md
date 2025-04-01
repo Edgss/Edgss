@@ -13,9 +13,11 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/2bc9c1e0-b2c8-4595-96c1-63ca13cdec6e" width="740" height="434">
 </div>
+<div align="center">
+  <picture style="width: 740px; height: 434px;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edgss/Edgss/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edgss/Edgss/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Edgss/Edgss/output/github-contribution-grid-snake.svg" style="width: 100%; height: 100%; object-fit: contain;">
+  </picture>
+</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edgss/Edgss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edgss/Edgss/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Edgss/Edgss/output/github-contribution-grid-snake.svg">
-</picture>
